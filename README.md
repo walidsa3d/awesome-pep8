@@ -30,3 +30,6 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome)
 
 ## Misc Tools
 - [PEP8 Online Check](http://pep8online.com) - Check your code for PEP8 requirements online.
+
+# License
+MIT
