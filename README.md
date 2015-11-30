@@ -2,6 +2,8 @@
 A curated list of PEP8 docs and tools.
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Inspired by [awesome](https://github.com/sindresorhus/awesome)
+
 ## Docs & Tutorials
 - [PEP8 Official Style Guide](https://www.python.org/dev/peps/pep-0008/)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
