@@ -12,7 +12,7 @@ A curated list of PEP8 docs and tools.
   - [flake8-import-order](https://github.com/public/flake8-import-order) -  Checks the ordering of your imports.
   - [flake8-blind-except](https://github.com/elijahandrews/flake8-blind-except) - Checks for blind except statements.
   - [flake8-debugger](https://github.com/JBKahn/flake8-debugger) - Checks for looks for outstanding pdb/ipdb imports that were probably left after a debugging.
-- [Frosted](https://github.com/timothycrosley/frosted) -  a fork of pyflakes.
+- [Frosted](https://github.com/timothycrosley/frosted) -  A fork of pyflakes.
 - [AutoPEP8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [PyFlakes](https://github.com/pyflakes/pyflakes) - A simple program which checks Python source files for errors.
 - [PyLint](http://www.pylint.org/) - A very feature-packed tool that checks your code for PEP 8 errors among others.
