@@ -19,7 +19,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome)
 - [PyFlakes](https://github.com/pyflakes/pyflakes) - A simple program which checks Python source files for errors.
 - [PyLint](http://www.pylint.org/) - A very feature-packed tool that checks your code for PEP 8 errors among others.
 - [PyLama](https://github.com/klen/pylama) - A code audit for python that wraps these tools: pep8, pep257, pyflakes, mccabe and pylint.
-- [PEP257](https://github.com/GreenSteam/pep257) - Doctring style checker.
+- [PEP257](https://github.com/GreenSteam/pep257) - Docstring style checker.
 - [Prospector](https://github.com/landscapeio/prospector) - A tool to analyse Python code and output information about errors, potential problems, convention violations and complexity.
 
 ## Editor Plugins
